@@ -11,7 +11,7 @@
 <h1 align="center">Hello &nbsp;<a href="pierceoneill.ie"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , I'm Pierce O'Neill</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=;Full-Stack+Developer;Cloud+Engineer;Support Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&height=60&lines=Full+Stack+Web+Developer;Cloud+Engineer;Support+Engineer" alt="Typing SVG" />
 
 </p>
 
