@@ -28,18 +28,18 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.youtube.com/@KnightGamer87" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40KnightGamer87&subtitle=@knightgamer87&size=square" alt="knightgamer87">
+      <a href="https://www.youtube.com/@mrpierceoneill" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40KnightGamer87&subtitle=@mrpierceoneill&size=square" alt="mrpierceoneill.ie">
       </a>
     </td>
     <td align="center">
-      <a href="https://www.instagram.com/knightgamer87/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fknightgamer87%2F&subtitle=@knightgamer87&size=square" alt="knightgamer87">
+      <a href="https://www.instagram.com/oneillpierce/" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Foneillpierce%2F&subtitle=@oneillpierce&size=square" alt="oneillpierce">
       </a>
     </td>
     <td align="center">
-      <a href="https://www.linkedin.com/in/kenan-gain-33048518a/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@Kenan+Gain&size=square" alt="Kenan Gain">
+      <a href="https://www.linkedin.com/in/pierce-oneill/" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpierce-oneill-33048518a%2F&subtitle=@Pierce-ONeill&size=square" alt="Pierce O'Neill">
       </a>
     </td>
     <td align="center">
