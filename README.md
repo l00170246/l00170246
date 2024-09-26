@@ -2,21 +2,21 @@
 
 <div align="center">
   <a href="https://pierceoneill.site">
-    <img width="100%" src="https://cardivo.vercel.app/api?name=Pierce%20O'Neill&description=Full%20Stack%20Web%20Developer%20and%20Full-Stack%20Developer%20specializing%20in%20Cloud%20Computing,%20AI/ML,%20and%20high-quality%20streaming%20technologies.%20Committed%20to%20leveraging%20advanced%20AI%20solutions%20to%20boost%20productivity%20and%20foster%20creative%20problem-solving.%20Passionate%20about%20pushing%20the%20boundaries%20of%20modern%20technology%20to%20deliver%20exceptional%20results.&image=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Dview%26id%3D1hyV7-KzqCpHLPw5_nzvl6ybEjiMO9OuN&backgroundColor=%23ecf0f1&colorPattern=%23eaeaea&youtube=mrpierceoneill&instagram=pierceoneill&linkedin=pierce-oneill&github=l00170246&twitter=pierceoneilln" alt="Kenan Gain's Card" />
+    <img width="100%" src="https://cardivo.vercel.app/api?name=Pierce%20O'Neill&description=Full%20Stack%20Web%20Developer%20and%20IT%20Professional%20specializing%20in%20Web%20Design,%20Cloud%20Computing,%20and%20DevOps.%20Committed%20to%20leveraging%20advanced%20AI%20solutions%20to%20boost%20productivity%20and%20foster%20creative%20problem-solving.%20Passionate%20about%20pushing%20the%20boundaries%20of%20modern%20technology%20to%20deliver%20exceptional%20results.&image=https://avatars.githubusercontent.com/u/116492614?v=4&backgroundColor=%23ecf0f1&colorPattern=%23eaeaea&youtube=mrpierceoneill&instagram=pierceoneill&linkedin=pierce-oneill&github=l00170246&twitter=pierceoneilln" alt="Kenan Gain's Card" />
 
 
   </a>
 </div>
 
-<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , I'm Kenan Gain</h1>
+<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , I'm Pierce O'Neill</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;Cloud+Engineer;AI+Engineer;YouTuber;Streamer;Editor;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=;Full-Stack+Developer;Cloud+Engineer;Support Engineer;" alt="Typing SVG" />
 
 </p>
 
 <p align="center">
-  Content Creator | Gamer | Tech Enthusiast
+  Web Developer | Cloud Engineer | Tech Enthusiast
 </p>
 
 <div align="center">
