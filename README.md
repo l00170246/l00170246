@@ -44,7 +44,7 @@
     </td>
     <td align="center">
       <a href="https://facebook.com/kenan.gain" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffacebook.com%2Fkenan.gain&subtitle=@Kenan+Gain&size=square" alt="Kenan Gain">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffacebook.com%2Fpierceoneillitconsultant&subtitle=@pierceoneillitconsultant&size=square" alt="Pierce O'Neill">
       </a>
     </td>
   </tr>
