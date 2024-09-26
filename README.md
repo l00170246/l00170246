@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://pierceoneill.site">
-    <img width="100%" src="https://cardivo.vercel.app/api?name=Pierce%20O'Neill&description=Full%20Stack%20Web%20Developer%20and%20IT%20Professional%20specializing%20in%20Web%20Design,%20Cloud%20Computing,%20and%20DevOps.%20Committed%20to%20leveraging%20advanced%20AI%20solutions%20to%20boost%20productivity%20and%20foster%20creative%20problem-solving.%20Passionate%20about%20pushing%20the%20boundaries%20of%20modern%20technology%20to%20deliver%20exceptional%20results.&image=https://avatars.githubusercontent.com/u/116492614?v=4&backgroundColor=%23ecf0f1&colorPattern=%23eaeaea&youtube=mrpierceoneill&instagram=pierceoneill&linkedin=pierce-oneill&github=l00170246&twitter=pierceoneilln" alt="Kenan Gain's Card" />
+    <img width="100%" src="https://cardivo.vercel.app/api?name=Pierce%20O'Neill&description=Full%20Stack%20Web%20Developer%20and%20IT%20Professional%20specializing%20in%20Web%20Design,%20Cloud%20Computing,%20and%20DevOps.%20Committed%20to%20leveraging%20advanced%20AI%20solutions%20to%20boost%20productivity%20and%20foster%20creative%20problem-solving.%20Passionate%20about%20pushing%20the%20boundaries%20of%20modern%20technology%20to%20deliver%20exceptional%20results.&image=https://avatars.githubusercontent.com/u/116492614?v=4&backgroundColor=%23ecf0f1&colorPattern=%23eaeaea&youtube=mrpierceoneill&instagram=pierceoneill&linkedin=pierce-oneill&github=l00170246&twitter=pierceoneill" alt="Pierce O'Neill's Card" />
 
 
   </a>
@@ -23,8 +23,8 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://www.kenangain.com/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Kenan+Gain&size=square" alt="Kenan Gain">
+      <a href="https://pierceoneill.site" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Pierce+O'Neill&size=square" alt="Pierce O'Neill">
       </a>
     </td>
     <td align="center">
